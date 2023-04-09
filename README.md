@@ -7,4 +7,4 @@ Step 2: Removed rows for which few values are missing.
 
 Step 3: Removed irrelevant values from each column if any. Validation of all values for a column( order date and ship date value must be in correct date format ). For each entry in dataset ship date >= order date
 
-Step 5: After cleaning is done used the cleaned dataset to visualize the data using PowerBI.
+Step 4: After cleaning is done used the cleaned dataset to visualize the data using PowerBI.
